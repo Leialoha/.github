@@ -11,14 +11,14 @@ body:
         We love to hear any and all ideas that you may have. It would be great to get as much detail from you as you wish to provide.
 
         **Helpful Links**
-        - [Code of Conduct](https://github.com/leialoha/.github/blob/main/CODE_OF_CONDUCT.md)
+        - [Code of Conduct](https://github.com/Leialoha/.github/blob/master/CODE_OF_CONDUCT.md)
   - type: checkboxes
     id: terms
     attributes:
       label: Idea Contribution
       description: This project has a Code of Conduct that all participants are expected to understand and follow.
       options:
-        - label: I have read and agreed to the project's [Code of Conduct](https://github.com/leialoha/.github/blob/main/CODE_OF_CONDUCT.md)
+        - label: I have read and agreed to the project's [Code of Conduct](https://github.com/Leialoha/.github/blob/master/CODE_OF_CONDUCT.md)
           required: true
   - type: textarea
     id: whats-your-idea
